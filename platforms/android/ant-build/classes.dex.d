@@ -1,0 +1,23 @@
+D:\apps\qr\platforms\android\ant-build\classes.dex : \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\BuildConfig.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\CordovaApp.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$array.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$attr.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$color.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$dimen.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$drawable.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$id.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$layout.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$menu.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$raw.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$string.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R$xml.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\ionicframework\qr316701\R.class \
+D:\apps\qr\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
+D:\apps\qr\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\apps\qr\platforms\android\ant-build\dexedLibs\classes-29a5f8809c28e99ea0d8186c9edcf02d.jar \
+D:\apps\qr\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-21a88441ab3454812424623cdda37c8c.jar \
